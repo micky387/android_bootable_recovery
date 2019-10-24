@@ -88,6 +88,7 @@
 		<variable name="col1_x_left" value="72"/>
 		<variable name="col1_x_header" value="184"/>
 		<variable name="center_x" value="540"/>
+		<variable name="center_y" value="350"/>
 		<variable name="col1_x_right" value="576"/>
 		<variable name="indent_right" value="1044"/>
 		<variable name="tab_height" value="96"/>
@@ -277,7 +278,7 @@
 
 			<text color="%text_color%">
 				<font resource="font_m"/>
-				<placement x="%center_x%" y="%row1_header_y%" placement="5"/>
+				<placement x="%center_y%" y="%row1_header_y%" placement="5"/>
 				<text>%tw_time%</text>
 			</text>
 
